@@ -1,0 +1,13 @@
+#gameover {
+    z-index: 1; 
+    position: absolute;
+    color: white; 
+    margin-left: 40%; 
+    margin-top: 25%;
+    background-color: blue;
+    width: 200px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    opacity: 0.9;
+}
